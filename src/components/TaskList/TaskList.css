@@ -1,0 +1,11 @@
+.taskList{
+    height: auto;
+    width: 100% !important;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    overflow: auto;
+    padding: 0px 0px 5px 5px;
+    margin-top: 50px;
+    gap: 15px;
+}

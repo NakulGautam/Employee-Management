@@ -1,0 +1,22 @@
+.Ntaskmain{
+    background-color: #ffc107ea;
+    width: 330px;
+    min-height: 220px;
+}
+.btn{
+    
+    background-color: #24963e;
+    color: white;
+    border: rgb(80, 80, 80) !important;
+    font-weight: 500;
+}
+.btn:hover{
+    
+    background-color: #147c2c;
+    color: white;
+    border: rgb(80, 80, 80) !important;
+    font-weight: 500;
+}
+.category{
+    min-width: 100px !important;
+}
